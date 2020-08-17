@@ -1,0 +1,369 @@
+>Feature NC_044768
+2928	3000	gene
+			gene	trnM-CAU
+2928	3000	tRNA
+			note	anticodon:CAU
+			product	tRNA-Met
+			gene	trnM-CAU
+5990	6063	gene
+			gene	trnG-GCC
+5990	6063	tRNA
+			note	anticodon:GCC
+			product	tRNA-Gly
+			gene	trnG-GCC
+10010	10081	gene
+			gene	trnQ-UUG
+10010	10081	tRNA
+			note	anticodon:UUG
+			product	tRNA-Gln
+			gene	trnQ-UUG
+38972	38124	gene
+			gene	atp6
+38972	38124	CDS
+			codon_start	1
+			product	Atp6
+			gene	atp6
+44080	44007	gene
+			gene	trnW-CCA
+44080	44007	tRNA
+			note	anticodon:CCA
+			product	tRNA-Trp
+			gene	trnW-CCA
+44278	44240	gene
+			gene	trnP-GGG
+44278	44240	tRNA
+			note	anticodon:GGG
+			product	tRNA-Pro
+			gene	trnP-GGG
+45657	45085	gene
+			gene	nad9
+45657	45085	CDS
+			codon_start	1
+			product	NADH dehydrogenase subunit 9
+			gene	nad9
+51721	53688	gene
+			gene	matR
+51721	53688	CDS
+			codon_start	1
+			product	MatR
+			gene	matR
+65146	65550	gene
+317504	315784
+51000	54781
+			trans_splicing	
+			gene	nad1
+65146	65550	CDS
+317504	317424
+315975	315784
+51000	51056
+54524	54781
+			codon_start	1
+			trans_splicing	
+			product	NADH dehydrogenase subunit 1
+			gene	nad1
+79441	81714	gene
+			gene	ccmFC
+79441	79534	CDS
+80960	81714
+			codon_start	1
+			product	CcmFc
+			gene	ccmFC
+84380	84456	gene
+			gene	trnM-CAU
+84380	84456	tRNA
+			note	anticodon:CAU
+			product	tRNA-Met
+			gene	trnM-CAU
+84380	84460	gene
+			gene	trnI-AUG
+84380	84460	tRNA
+			note	anticodon:AUG
+			product	tRNA-His
+			gene	trnI-AUG
+106621	105728	gene
+			gene	mttB
+106621	105728	CDS
+			codon_start	1
+			product	MttB
+			gene	mttB
+106628	106530	gene
+			gene	ORF230
+106628	106530	CDS
+			codon_start	1
+			product	open reading frame 230
+			gene	ORF230
+120454	120056	gene
+			gene	sdh4
+120454	120056	CDS
+			codon_start	1
+			product	Sdh4
+			gene	sdh4
+121180	120842	gene
+			gene	cox3
+121180	120842	CDS
+			codon_start	1
+			product	cytochrome oxidase subunit 3
+			gene	cox3
+122260	121781	gene
+			gene	atp8
+122260	121781	CDS
+			codon_start	1
+			product	Atp8
+			gene	atp8
+122927	122388	gene
+			gene	ORF234
+122927	122388	CDS
+			codon_start	1
+			product	open reading frame 234
+			gene	ORF234
+126573	124343	gene
+			gene	rps3
+126573	126505	CDS
+124747	124343
+			codon_start	1
+			product	ribosomal protein S3
+			gene	rps3
+129990	128809	gene
+			gene	cob
+129990	128809	CDS
+			codon_start	1
+			product	cytochrome b
+			gene	cob
+131412	131236	gene
+			gene	rps14
+131412	131236	CDS
+			codon_start	1
+			product	ribosomal protein S14
+			gene	rps14
+131971	131414	gene
+			gene	rpl5
+131971	131414	CDS
+			codon_start	1
+			product	ribosomal protein L5
+			gene	rpl5
+134190	133732	gene
+			gene	ORF332
+134190	133732	CDS
+			codon_start	1
+			product	open reading frame 332
+			gene	ORF332
+139000	139782	gene
+			gene	cox2
+139000	139782	CDS
+			codon_start	1
+			product	cytochrome oxidase subunit 2
+			gene	cox2
+155024	155266	gene
+			gene	atp9
+155024	155266	CDS
+			codon_start	1
+			product	Atp9
+			gene	atp9
+155538	157831	gene
+133485	133506
+377726	377811
+			trans_splicing	
+			gene	nad5
+155538	155767	CDS
+156616	157831
+133485	133506
+377726	377811
+			codon_start	1
+			trans_splicing	
+			product	NADH dehydrogenase subunit 5
+			gene	nad5
+161846	161774	gene
+			gene	trnK-UUU
+161846	161774	tRNA
+			note	anticodon:UUU
+			product	tRNA-Lys
+			gene	trnK-UUU
+163273	163893	gene
+			gene	ccmB
+163273	163893	CDS
+			codon_start	1
+			product	CcmB
+			gene	ccmB
+169364	168747	gene
+			gene	nad6
+169364	168747	CDS
+			codon_start	1
+			product	NADH dehydrogenase subunit 6
+			gene	nad6
+217667	214512	gene
+			gene	rrn26
+217667	214512	rRNA
+			gene	rrn26
+234666	234580	gene
+			gene	trnS-UGA
+234666	234580	tRNA
+			note	anticodon:UGA
+			product	tRNA-Ser
+			gene	trnS-UGA
+240845	240093	gene
+			gene	ccmC
+240845	240093	CDS
+			codon_start	1
+			product	CcmC
+			gene	ccmC
+243222	242626	gene
+			gene	atp4
+243222	242626	CDS
+			codon_start	1
+			product	Atp4
+			gene	atp4
+243699	243397	gene
+			gene	nad4L
+243699	243397	CDS
+			codon_start	1
+			product	NADH dehydrogenase subunit 4L
+			gene	nad4L
+252879	253831	gene
+			gene	trnS-GCU
+252879	252909	tRNA
+253779	253831
+			note	anticodon:GCU
+			product	tRNA-Ser
+			gene	trnS-GCU
+270358	268871	gene
+			gene	cox1
+270358	268871	CDS
+			codon_start	1
+			product	cytochrome oxidase subunit 1
+			gene	cox1
+272288	270679	gene
+			gene	atp1
+272288	270765	CDS
+			codon_start	1
+			product	Atp1
+			gene	atp1
+278691	272765	gene
+			gene	nad7
+278691	278549	CDS
+277641	277573
+276276	275811
+274746	274503
+272641	272379
+			codon_start	1
+			product	NADH dehydrogenase subunit 7
+			gene	nad7
+283718	283077	gene
+			gene	rps1
+283718	283077	CDS
+			codon_start	1
+			product	ribosomal protein S1
+			gene	rps1
+285306	284476	gene
+			gene	rps4
+285306	284476	CDS
+			codon_start	1
+			product	ribosomal protein S4
+			gene	rps4
+304285	304641	gene
+			gene	nad3
+304285	304641	CDS
+			codon_start	1
+			product	NADH dehydrogenase subunit 3
+			gene	nad3
+304690	305067	gene
+			gene	rps12
+304690	305067	CDS
+			codon_start	1
+			product	ribosomal protein S12
+			gene	rps12
+318755	318405	gene
+			gene	rps13
+318755	318405	CDS
+			codon_start	1
+			product	ribosomal protein S13
+			gene	rps13
+319032	318958	gene
+			gene	trnP-UGG
+319032	318958	tRNA
+			note	anticodon:UGG
+			product	tRNA-Pro
+			gene	trnP-UGG
+319323	319250	gene
+			gene	trnF-GAA
+319323	319250	tRNA
+			note	anticodon:GAA
+			product	tRNA-Phe
+			gene	trnF-GAA
+332626	334488	gene
+			gene	rrn18
+332626	334488	rRNA
+			gene	rrn18
+335180	335294	gene
+			gene	rrn5
+335180	335294	rRNA
+			gene	rrn5
+346780	346328	gene
+			gene	rpl10
+346780	346328	CDS
+			codon_start	1
+			product	ribosomal protein L10
+			gene	rpl10
+384341	384268	gene
+			gene	trnD-GUC
+384341	384268	tRNA
+			note	anticodon:GUC
+			product	tRNA-Asp
+			gene	trnD-GUC
+387772	396379	gene
+			gene	nad4
+387772	388232	CDS
+389672	390186
+393413	393835
+396291	396379
+			codon_start	1
+			product	NADH dehydrogenase subunit 4
+			gene	nad4
+406741	406668	gene
+			gene	trnH-GUG
+406741	406668	tRNA
+			note	anticodon:GUG
+			product	tRNA-His
+			gene	trnH-GUG
+409215	409286	gene
+			gene	trnE-UUC
+409215	409286	tRNA
+			note	anticodon:UUC
+			product	tRNA-Glu
+			gene	trnE-UUC
+412420	410690	gene
+			gene	ccmFn
+412420	410690	CDS
+			codon_start	1
+			product	CcmFn
+			gene	ccmFn
+418559	418630	gene
+			gene	trnC-GCA
+418559	418630	tRNA
+			note	anticodon:GCA
+			product	tRNA-Cys
+			gene	trnC-GCA
+420675	420746	gene
+			gene	trnN-GUU
+420675	420746	tRNA
+			note	anticodon:GUU
+			product	tRNA-Asn
+			gene	trnN-GUU
+421700	421783	gene
+			gene	trnY-GUA
+421700	421783	tRNA
+			note	anticodon:GUA
+			product	tRNA-Tyr
+			gene	trnY-GUA
+422300	427061	gene
+442754	444503
+			trans_splicing	
+			gene	nad2
+442754	442906	CDS
+444110	444503
+422300	422458
+424792	425364
+426874	427061
+			codon_start	1
+			trans_splicing	
+			product	NADH dehydrogenase subunit 2
+			gene	nad2
